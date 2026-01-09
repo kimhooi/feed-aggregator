@@ -4,7 +4,7 @@
       branches:
         - main
     schedule:
-      - cron:  '*/1 * * * *'
+      - cron:  '0 0 * * *'
   jobs:
     build-feed-page:
       runs-on: ubuntu-latest
