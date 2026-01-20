@@ -23,7 +23,39 @@ News Releases --- 1/2/2026
 
 
 
+[2020](https://www.hkex.com.hk/News/News-Release/2020?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
 [2024](https://www.hkex.com.hk/News/News-Release/2024?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
+[2023](https://www.hkex.com.hk/News/News-Release/2023?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
+[2022](https://www.hkex.com.hk/News/News-Release/2022?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
+[2021](https://www.hkex.com.hk/News/News-Release/2021?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
@@ -365,36 +397,4 @@ OTC Clear to Accept China Government Bonds, Policy Bank Bonds as Collateral for 
 News Releases --- 3/13/2025
 
 HKEX Achieves Carbon Neutrality Goal in 2024
-
-
-[HKEX Signs MOU with CMU OmniClear to Enhance the Post-Trade Securities Infrastructure of Hong Kong’s Capital Markets](https://www.hkex.com.hk/News/News-Release/2025/2503042news?sc_lang=en)
----
-
-News Releases --- 3/4/2025
-
-HKEX Signs MOU with CMU OmniClear to Enhance the Post-Trade Securities Infrastructure of Hong Kong’s Capital Markets
-
-
-[Forfeiture of Unclaimed Second Interim Dividend for 2018](https://www.hkex.com.hk/News/News-Release/2025/2502282news?sc_lang=en)
----
-
-News Releases --- 2/28/2025
-
-Forfeiture of Unclaimed Second Interim Dividend for 2018
-
-
-[HKEX to Introduce New Stock Option Classes](https://www.hkex.com.hk/News/News-Release/2025/250228news?sc_lang=en)
----
-
-News Releases --- 2/28/2025
-
-HKEX to Introduce New Stock Option Classes
-
-
-[HKEX 2024 Consolidated Financial Statements](https://www.hkex.com.hk/News/News-Release/2025/2502272news?sc_lang=en)
----
-
-News Releases --- 2/27/2025
-
-HKEX 2024 Consolidated Financial Statements
 
