@@ -1,4 +1,12 @@
 
+[HKEX Signs MOU with Brazil’s B3 to Advance Sustainable Finance, Carbon Markets](https://www.hkex.com.hk/News/News-Release/2026/2601272news?sc_lang=en)
+---
+
+News Releases --- 1/27/2026
+
+HKEX Signs MOU with Brazil’s B3 to Advance Sustainable Finance, Carbon Markets
+
+
 [HKEX to Introduce New Stock Option Classes](https://www.hkex.com.hk/News/News-Release/2026/260109news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Welcomes Asia’s First Single Stock L&I Products
 News Releases --- 3/19/2025
 
 OTC Clear to Accept China Government Bonds, Policy Bank Bonds as Collateral for All Derivatives from 21 March 2025
-
-
-[HKEX Achieves Carbon Neutrality Goal in 2024](https://www.hkex.com.hk/News/News-Release/2025/250313news?sc_lang=en)
----
-
-News Releases --- 3/13/2025
-
-HKEX Achieves Carbon Neutrality Goal in 2024
 
