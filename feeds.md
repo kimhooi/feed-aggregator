@@ -31,6 +31,14 @@ News Releases --- 1/2/2026
 
 
 
+[2012](https://www.hkex.com.hk/News/News-Release/2012?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
 [2020](https://www.hkex.com.hk/News/News-Release/2020?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Collaborates with World Economic Forum to Host First Financial Symposium in
 News Releases --- 3/24/2025
 
 HKEX Welcomes Asia’s First Single Stock L&I Products
-
-
-[OTC Clear to Accept China Government Bonds, Policy Bank Bonds as Collateral for All Derivatives from 21 March 2025](https://www.hkex.com.hk/News/News-Release/2025/250319news?sc_lang=en)
----
-
-News Releases --- 3/19/2025
-
-OTC Clear to Accept China Government Bonds, Policy Bank Bonds as Collateral for All Derivatives from 21 March 2025
 
