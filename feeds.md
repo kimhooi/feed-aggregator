@@ -1,4 +1,12 @@
 
+[HKEX Appoints Chief Regional Representative for the Middle East](https://www.hkex.com.hk/News/News-Release/2026/260212news?sc_lang=en)
+---
+
+News Releases --- 2/12/2026
+
+HKEX Appoints Chief Regional Representative for the Middle East
+
+
 [HKEX Signs MOU with Brazil’s B3 to Advance Sustainable Finance, Carbon Markets](https://www.hkex.com.hk/News/News-Release/2026/2601272news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ Forfeiture of Unclaimed Second Interim Dividend for 2018
 News Releases --- 3/26/2025
 
 HKEX Collaborates with World Economic Forum to Host First Financial Symposium in Hong Kong
-
-
-[HKEX Welcomes Asia’s First Single Stock L&I Products](https://www.hkex.com.hk/News/News-Release/2025/250324news?sc_lang=en)
----
-
-News Releases --- 3/24/2025
-
-HKEX Welcomes Asia’s First Single Stock L&I Products
 
