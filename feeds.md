@@ -1,4 +1,12 @@
 
+[HKEX 2025 Consolidated Financial Statements](https://www.hkex.com.hk/News/News-Release/2026/2602262news?sc_lang=en)
+---
+
+News Releases --- 2/26/2026
+
+HKEX 2025 Consolidated Financial Statements
+
+
 [HKEX 2025 Full Year Results](https://www.hkex.com.hk/News/News-Release/2026/260226news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Unveils Strategic Investment for Permanent Group Headquarters
 News Releases --- 4/15/2025
 
 HKEX and SFC Co-Host Inaugural International Carbon Markets Summit
-
-
-[Forfeiture of Unclaimed Second Interim Dividend for 2018](https://www.hkex.com.hk/News/News-Release/2025/250415news?sc_lang=en)
----
-
-News Releases --- 4/15/2025
-
-Forfeiture of Unclaimed Second Interim Dividend for 2018
 
