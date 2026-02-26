@@ -1,4 +1,12 @@
 
+[HKEX 2025 Full Year Results](https://www.hkex.com.hk/News/News-Release/2026/260226news?sc_lang=en)
+---
+
+News Releases --- 2/26/2026
+
+HKEX 2025 Full Year Results
+
+
 [HKEX Appoints Chief Regional Representative for the Middle East](https://www.hkex.com.hk/News/News-Release/2026/260212news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX and SFC Co-Host Inaugural International Carbon Markets Summit
 News Releases --- 4/15/2025
 
 Forfeiture of Unclaimed Second Interim Dividend for 2018
-
-
-[HKEX Collaborates with World Economic Forum to Host First Financial Symposium in Hong Kong](https://www.hkex.com.hk/News/News-Release/2025/250326news?sc_lang=en)
----
-
-News Releases --- 3/26/2025
-
-HKEX Collaborates with World Economic Forum to Host First Financial Symposium in Hong Kong
 
