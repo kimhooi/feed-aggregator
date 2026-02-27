@@ -1,4 +1,20 @@
 
+[HKEX Welcomes Hong Kong Government Appointments to its Board](https://www.hkex.com.hk/News/News-Release/2026/2602272news?sc_lang=en)
+---
+
+News Releases --- 2/27/2026
+
+HKEX Welcomes Hong Kong Government Appointments to its Board
+
+
+[Forfeiture of Unclaimed Second Interim Dividend for 2019](https://www.hkex.com.hk/News/News-Release/2026/260227news?sc_lang=en)
+---
+
+News Releases --- 2/27/2026
+
+Forfeiture of Unclaimed Second Interim Dividend for 2019
+
+
 [HKEX 2025 Consolidated Financial Statements](https://www.hkex.com.hk/News/News-Release/2026/2602262news?sc_lang=en)
 ---
 
@@ -381,20 +397,4 @@ Poll Results of 2025 Annual General Meeting, Re-appointment of Chairman and New 
 News Releases --- 4/30/2025
 
 HKEX 2025 First Quarter Results
-
-
-[HKEX Unveils Strategic Investment for Permanent Group Headquarters](https://www.hkex.com.hk/News/News-Release/2025/2504242news?sc_lang=en)
----
-
-News Releases --- 4/24/2025
-
-HKEX Unveils Strategic Investment for Permanent Group Headquarters
-
-
-[HKEX and SFC Co-Host Inaugural International Carbon Markets Summit](https://www.hkex.com.hk/News/News-Release/2025/2504152news?sc_lang=en)
----
-
-News Releases --- 4/15/2025
-
-HKEX and SFC Co-Host Inaugural International Carbon Markets Summit
 
