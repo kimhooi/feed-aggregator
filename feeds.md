@@ -1,4 +1,12 @@
 
+[HKEX Foundation Launches Care for Caregivers Programme](https://www.hkex.com.hk/News/News-Release/2026/260309news?sc_lang=en)
+---
+
+News Releases --- 3/9/2026
+
+HKEX Foundation Launches Care for Caregivers Programme
+
+
 [HKEX Welcomes Hong Kong Government Appointments to its Board](https://www.hkex.com.hk/News/News-Release/2026/2602272news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ Re-appointment of Chairman Approved
 News Releases --- 4/30/2025
 
 Poll Results of 2025 Annual General Meeting, Re-appointment of Chairman and New Appointments to HKEX Board
-
-
-[HKEX 2025 First Quarter Results](https://www.hkex.com.hk/News/News-Release/2025/250430news?sc_lang=en)
----
-
-News Releases --- 4/30/2025
-
-HKEX 2025 First Quarter Results
 
