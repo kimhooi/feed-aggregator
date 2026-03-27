@@ -1,4 +1,12 @@
 
+[HKEX, Bursa Malaysia Launch Co-Branded Index, Sign MOU to Enhance Market Connectivity](https://www.hkex.com.hk/News/News-Release/2026/260327news?sc_lang=en)
+---
+
+News Releases --- 3/27/2026
+
+HKEX, Bursa Malaysia Launch Co-Branded Index, Sign MOU to Enhance Market Connectivity
+
+
 [HKEX Foundation Launches Care for Caregivers Programme](https://www.hkex.com.hk/News/News-Release/2026/260309news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Welcomes Further Swap Connect Enhancements
 News Releases --- 5/8/2025
 
 Re-appointment of Chairman Approved
-
-
-[Poll Results of 2025 Annual General Meeting, Re-appointment of Chairman and New Appointments to HKEX Board](https://www.hkex.com.hk/News/News-Release/2025/2504302news?sc_lang=en)
----
-
-News Releases --- 4/30/2025
-
-Poll Results of 2025 Annual General Meeting, Re-appointment of Chairman and New Appointments to HKEX Board
 
