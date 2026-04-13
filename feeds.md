@@ -1,4 +1,12 @@
 
+[HKEX Advances Index Ecosystem with Two Tech-Focused Benchmarks](https://www.hkex.com.hk/News/News-Release/2026/260413news?sc_lang=en)
+---
+
+News Releases --- 4/13/2026
+
+HKEX Advances Index Ecosystem with Two Tech-Focused Benchmarks
+
+
 [HKEX, Bursa Malaysia Launch Co-Branded Index, Sign MOU to Enhance Market Connectivity](https://www.hkex.com.hk/News/News-Release/2026/260327news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Enhances Product Offering with CATL Debut
 News Releases --- 5/15/2025
 
 HKEX Welcomes Further Swap Connect Enhancements
-
-
-[Re-appointment of Chairman Approved](https://www.hkex.com.hk/News/News-Release/2025/250508news?sc_lang=en)
----
-
-News Releases --- 5/8/2025
-
-Re-appointment of Chairman Approved
 
