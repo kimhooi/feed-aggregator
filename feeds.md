@@ -1,4 +1,12 @@
 
+[Forfeiture of Unclaimed Second Interim Dividend for 2019](https://www.hkex.com.hk/News/News-Release/2026/260415news?sc_lang=en)
+---
+
+News Releases --- 4/15/2026
+
+Forfeiture of Unclaimed Second Interim Dividend for 2019
+
+
 [HKEX Advances Index Ecosystem with Two Tech-Focused Benchmarks](https://www.hkex.com.hk/News/News-Release/2026/260413news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Appoints Group Chief Financial Officer
 News Releases --- 5/16/2025
 
 HKEX Enhances Product Offering with CATL Debut
-
-
-[HKEX Welcomes Further Swap Connect Enhancements](https://www.hkex.com.hk/News/News-Release/2025/250515news?sc_lang=en)
----
-
-News Releases --- 5/15/2025
-
-HKEX Welcomes Further Swap Connect Enhancements
 
