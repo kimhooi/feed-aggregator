@@ -1,4 +1,12 @@
 
+[HKEX Builds FIC Leadership Team with New Appointment](https://www.hkex.com.hk/News/News-Release/2026/2604212news?sc_lang=en)
+---
+
+News Releases --- 4/21/2026
+
+HKEX Builds FIC Leadership Team with New Appointment
+
+
 [Forfeiture of Unclaimed Second Interim Dividend for 2019](https://www.hkex.com.hk/News/News-Release/2026/260415news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ New Articles of Association Approved
 News Releases --- 5/19/2025
 
 HKEX Appoints Group Chief Financial Officer
-
-
-[HKEX Enhances Product Offering with CATL Debut](https://www.hkex.com.hk/News/News-Release/2025/250516news?sc_lang=en)
----
-
-News Releases --- 5/16/2025
-
-HKEX Enhances Product Offering with CATL Debut
 
