@@ -1,4 +1,12 @@
 
+[HKEX Hosts 40th Asian and Oceanian Stock Exchanges Federation General Assembly](https://www.hkex.com.hk/News/News-Release/2026/260422news?sc_lang=en)
+---
+
+News Releases --- 4/22/2026
+
+HKEX Hosts 40th Asian and Oceanian Stock Exchanges Federation General Assembly
+
+
 [HKEX Builds FIC Leadership Team with New Appointment](https://www.hkex.com.hk/News/News-Release/2026/2604212news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Appoints New Consultative Panels Member
 News Releases --- 5/19/2025
 
 New Articles of Association Approved
-
-
-[HKEX Appoints Group Chief Financial Officer](https://www.hkex.com.hk/News/News-Release/2025/250519news?sc_lang=en)
----
-
-News Releases --- 5/19/2025
-
-HKEX Appoints Group Chief Financial Officer
 
