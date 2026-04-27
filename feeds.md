@@ -1,4 +1,12 @@
 
+[HKEX to Introduce Weekly Expiries for 17 Stock Option Classes](https://www.hkex.com.hk/News/News-Release/2026/260427news?sc_lang=en)
+---
+
+News Releases --- 4/27/2026
+
+HKEX to Introduce Weekly Expiries for 17 Stock Option Classes
+
+
 [HKEX Hosts 40th Asian and Oceanian Stock Exchanges Federation General Assembly](https://www.hkex.com.hk/News/News-Release/2026/260422news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Welcomes Government’s Re-Appointments to HKEX Risk Management Committee (
 News Releases --- 5/23/2025
 
 HKEX Appoints New Consultative Panels Member
-
-
-[New Articles of Association Approved](https://www.hkex.com.hk/News/News-Release/2025/2505192news?sc_lang=en)
----
-
-News Releases --- 5/19/2025
-
-New Articles of Association Approved
 
