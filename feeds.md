@@ -1,4 +1,12 @@
 
+[HKEX 2026 First Quarter Results](https://www.hkex.com.hk/News/News-Release/2026/260429news?sc_lang=en)
+---
+
+News Releases --- 4/29/2026
+
+HKEX 2026 First Quarter Results
+
+
 [HKEX to Introduce Weekly Expiries for 17 Stock Option Classes](https://www.hkex.com.hk/News/News-Release/2026/260427news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Celebrates 25 Years of Progress and Market Vibrancy
 News Releases --- 6/20/2025
 
 HKEX Welcomes Government’s Re-Appointments to HKEX Risk Management Committee (Statutory)
-
-
-[HKEX Appoints New Consultative Panels Member](https://www.hkex.com.hk/News/News-Release/2025/250523news?sc_lang=en)
----
-
-News Releases --- 5/23/2025
-
-HKEX Appoints New Consultative Panels Member
 
