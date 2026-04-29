@@ -1,4 +1,12 @@
 
+[Poll Results of 2026 Annual General Meeting and New Appointments to HKEX Board](https://www.hkex.com.hk/News/News-Release/2026/2604293news?sc_lang=en)
+---
+
+News Releases --- 4/29/2026
+
+Poll Results of 2026 Annual General Meeting and New Appointments to HKEX Board
+
+
 [HKEX 2026 First Quarter Results](https://www.hkex.com.hk/News/News-Release/2026/260429news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Welcomes Launch of 30-Year Swaps Trading in Northbound Swap Connect
 News Releases --- 6/20/2025
 
 HKEX Celebrates 25 Years of Progress and Market Vibrancy
-
-
-[HKEX Welcomes Government’s Re-Appointments to HKEX Risk Management Committee (Statutory)](https://www.hkex.com.hk/News/News-Release/2025/250620news?sc_lang=en)
----
-
-News Releases --- 6/20/2025
-
-HKEX Welcomes Government’s Re-Appointments to HKEX Risk Management Committee (Statutory)
 
