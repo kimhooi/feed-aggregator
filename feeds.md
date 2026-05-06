@@ -1,4 +1,12 @@
 
+[HKEX Builds Commodities Team with New Appointment](https://www.hkex.com.hk/News/News-Release/2026/260506news?sc_lang=en)
+---
+
+News Releases --- 5/6/2026
+
+HKEX Builds Commodities Team with New Appointment
+
+
 [Poll Results of 2026 Annual General Meeting and New Appointments to HKEX Board](https://www.hkex.com.hk/News/News-Release/2026/2604293news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Introduces Order Routing Service on Integrated Fund Platform
 News Releases --- 6/30/2025
 
 HKEX Welcomes Launch of 30-Year Swaps Trading in Northbound Swap Connect
-
-
-[HKEX Celebrates 25 Years of Progress and Market Vibrancy](https://www.hkex.com.hk/News/News-Release/2025/2506202news?sc_lang=en)
----
-
-News Releases --- 6/20/2025
-
-HKEX Celebrates 25 Years of Progress and Market Vibrancy
 
