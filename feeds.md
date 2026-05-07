@@ -159,7 +159,23 @@ News Releases --- 1/2/2026
 
 
 
+[2013](https://www.hkex.com.hk/News/News-Release/2013?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
 [2020](https://www.hkex.com.hk/News/News-Release/2020?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
+[2017](https://www.hkex.com.hk/News/News-Release/2017?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
@@ -381,20 +397,4 @@ Appointment to Mainland China Advisory Group
 News Releases --- 7/4/2025
 
 HKEX Senior Management Appointments
-
-
-[HKEX Introduces Order Routing Service on Integrated Fund Platform](https://www.hkex.com.hk/News/News-Release/2025/250703news?sc_lang=en)
----
-
-News Releases --- 7/3/2025
-
-HKEX Introduces Order Routing Service on Integrated Fund Platform
-
-
-[HKEX Welcomes Launch of 30-Year Swaps Trading in Northbound Swap Connect](https://www.hkex.com.hk/News/News-Release/2025/250630news?sc_lang=en)
----
-
-News Releases --- 6/30/2025
-
-HKEX Welcomes Launch of 30-Year Swaps Trading in Northbound Swap Connect
 
