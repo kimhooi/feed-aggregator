@@ -151,6 +151,30 @@ News Releases --- 1/2/2026
 
 
 
+[The Stock Exchange of Hong Kong Limited](https://www.hkex.com.hk/News/News-Release/1999-SEHK?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
+[2003](https://www.hkex.com.hk/News/News-Release/2003?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
+[2007](https://www.hkex.com.hk/News/News-Release/2007?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
 [2012](https://www.hkex.com.hk/News/News-Release/2012?sc_lang=en)
 ---
 
@@ -373,28 +397,4 @@ Condensed Consolidated Financial Statements for the Six Months Ended 30 June 202
 News Releases --- 8/20/2025
 
 HKEX 2025 Interim Results
-
-
-[Forfeiture of Unclaimed First Interim Dividend for 2019](https://www.hkex.com.hk/News/News-Release/2025/250808news?sc_lang=en)
----
-
-News Releases --- 8/8/2025
-
-Forfeiture of Unclaimed First Interim Dividend for 2019
-
-
-[Appointment to Mainland China Advisory Group](https://www.hkex.com.hk/News/News-Release/2025/250801news?sc_lang=en)
----
-
-News Releases --- 8/1/2025
-
-Appointment to Mainland China Advisory Group
-
-
-[HKEX Senior Management Appointments](https://www.hkex.com.hk/News/News-Release/2025/250704news?sc_lang=en)
----
-
-News Releases --- 7/4/2025
-
-HKEX Senior Management Appointments
 
