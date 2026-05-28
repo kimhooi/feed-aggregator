@@ -1,4 +1,12 @@
 
+[HKEX Celebrates 40 Years at Exchange Square With “Champions of Connectivity” Event](https://www.hkex.com.hk/News/News-Release/2026/260528news?sc_lang=en)
+---
+
+News Releases --- 5/28/2026
+
+HKEX Celebrates 40 Years at Exchange Square With “Champions of Connectivity” Event
+
+
 [HKEX Builds Commodities Team with New Appointment](https://www.hkex.com.hk/News/News-Release/2026/260506news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Hosts Climate Finance Forum, Shaping Future Landscape of Environmental Mark
 News Releases --- 8/20/2025
 
 Condensed Consolidated Financial Statements for the Six Months Ended 30 June 2025 (Unaudited)
-
-
-[HKEX 2025 Interim Results](https://www.hkex.com.hk/News/News-Release/2025/250820news?sc_lang=en)
----
-
-News Releases --- 8/20/2025
-
-HKEX 2025 Interim Results
 
