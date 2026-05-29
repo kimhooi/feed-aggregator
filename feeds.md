@@ -1,4 +1,12 @@
 
+[HKEX Appoints New Consultative Panel Members](https://www.hkex.com.hk/News/News-Release/2026/260529news?sc_lang=en)
+---
+
+News Releases --- 5/29/2026
+
+HKEX Appoints New Consultative Panel Members
+
+
 [HKEX Celebrates 40 Years at Exchange Square With “Champions of Connectivity” Event](https://www.hkex.com.hk/News/News-Release/2026/260528news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Signs MOU with Abu Dhabi Securities Exchange to Strengthen Market Connectiv
 News Releases --- 9/10/2025
 
 HKEX Hosts Climate Finance Forum, Shaping Future Landscape of Environmental Markets
-
-
-[Condensed Consolidated Financial Statements for the Six Months Ended 30 June 2025 (Unaudited)](https://www.hkex.com.hk/News/News-Release/2025/2508202news?sc_lang=en)
----
-
-News Releases --- 8/20/2025
-
-Condensed Consolidated Financial Statements for the Six Months Ended 30 June 2025 (Unaudited)
 
