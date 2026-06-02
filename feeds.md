@@ -1,4 +1,12 @@
 
+[HKEX Enhances Central Asia Market Connectivity with AIFC, Astana International Exchange MOUs](https://www.hkex.com.hk/News/News-Release/2026/260602news?sc_lang=en)
+---
+
+News Releases --- 6/2/2026
+
+HKEX Enhances Central Asia Market Connectivity with AIFC, Astana International Exchange MOUs
+
+
 [HKEX Appoints New Consultative Panel Members](https://www.hkex.com.hk/News/News-Release/2026/260529news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Adds New Reference Rate Under Swap Connect
 News Releases --- 9/18/2025
 
 HKEX Signs MOU with Abu Dhabi Securities Exchange to Strengthen Market Connectivity
-
-
-[HKEX Hosts Climate Finance Forum, Shaping Future Landscape of Environmental Markets](https://www.hkex.com.hk/News/News-Release/2025/250910news?sc_lang=en)
----
-
-News Releases --- 9/10/2025
-
-HKEX Hosts Climate Finance Forum, Shaping Future Landscape of Environmental Markets
 
