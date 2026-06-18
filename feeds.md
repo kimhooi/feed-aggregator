@@ -1,4 +1,28 @@
 
+[HKEX Renews Memorandum of Understanding with China Financial Futures Exchange](https://www.hkex.com.hk/News/News-Release/2026/2606184news?sc_lang=en)
+---
+
+News Releases --- 6/18/2026
+
+HKEX Renews Memorandum of Understanding with China Financial Futures Exchange
+
+
+[HKEX to Debut China Government Bond Futures on 3 August 2026](https://www.hkex.com.hk/News/News-Release/2026/2606182news?sc_lang=en)
+---
+
+News Releases --- 6/18/2026
+
+HKEX to Debut China Government Bond Futures on 3 August 2026
+
+
+[HKEX and HKMA Launch Pilot Project to Enable Digital Payment Solution for Derivatives After-Hours Trading](https://www.hkex.com.hk/News/News-Release/2026/260618news?sc_lang=en)
+---
+
+News Releases --- 6/18/2026
+
+HKEX and HKMA Launch Pilot Project to Enable Digital Payment Solution for Derivatives After-Hours Trading
+
+
 [HKEX Enhances Central Asia Market Connectivity with AIFC, Astana International Exchange MOUs](https://www.hkex.com.hk/News/News-Release/2026/260602news?sc_lang=en)
 ---
 
@@ -373,28 +397,4 @@ Forfeiture of Unclaimed First Interim Dividend for 2019
 News Releases --- 9/26/2025
 
 HKEX and The Community Chest Launch First-Ever Charity Relay in Central
-
-
-[HKEX Signs MOU to Advance Carbon Market Ecosystem in Greater Bay Area](https://www.hkex.com.hk/News/News-Release/2025/250923news?sc_lang=en)
----
-
-News Releases --- 9/23/2025
-
-HKEX Signs MOU to Advance Carbon Market Ecosystem in Greater Bay Area
-
-
-[HKEX Adds New Reference Rate Under Swap Connect](https://www.hkex.com.hk/News/News-Release/2025/250922news?sc_lang=en)
----
-
-News Releases --- 9/22/2025
-
-HKEX Adds New Reference Rate Under Swap Connect
-
-
-[HKEX Signs MOU with Abu Dhabi Securities Exchange to Strengthen Market Connectivity](https://www.hkex.com.hk/News/News-Release/2025/250918news?sc_lang=en)
----
-
-News Releases --- 9/18/2025
-
-HKEX Signs MOU with Abu Dhabi Securities Exchange to Strengthen Market Connectivity
 
