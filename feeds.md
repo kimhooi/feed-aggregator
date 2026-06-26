@@ -1,4 +1,12 @@
 
+[HKEX Welcomes Listing of First ETF Tracking HKEX Tech 100 Index](https://www.hkex.com.hk/News/News-Release/2026/260626news?sc_lang=en)
+---
+
+News Releases --- 6/26/2026
+
+HKEX Welcomes Listing of First ETF Tracking HKEX Tech 100 Index
+
+
 [HKEX Renews Memorandum of Understanding with China Financial Futures Exchange](https://www.hkex.com.hk/News/News-Release/2026/2606184news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX to Introduce Pop Mart Stock Options
 News Releases --- 9/26/2025
 
 Forfeiture of Unclaimed First Interim Dividend for 2019
-
-
-[HKEX and The Community Chest Launch First-Ever Charity Relay in Central](https://www.hkex.com.hk/News/News-Release/2025/250926news?sc_lang=en)
----
-
-News Releases --- 9/26/2025
-
-HKEX and The Community Chest Launch First-Ever Charity Relay in Central
 
