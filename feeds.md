@@ -1,4 +1,12 @@
 
+[HKEX Enters Into Data Licensing Agreement with ChinaBond Pricing Center to Support CGB Futures Launch](https://www.hkex.com.hk/News/News-Release/2026/260703news?sc_lang=en)
+---
+
+News Releases --- 7/3/2026
+
+HKEX Enters Into Data Licensing Agreement with ChinaBond Pricing Center to Support CGB Futures Launch
+
+
 [HKEX Welcomes Listing of First ETF Tracking HKEX Tech 100 Index](https://www.hkex.com.hk/News/News-Release/2026/260626news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX to Introduce Weekly Expiries for Five Stock Option Classes
 News Releases --- 9/30/2025
 
 HKEX to Introduce Pop Mart Stock Options
-
-
-[Forfeiture of Unclaimed First Interim Dividend for 2019](https://www.hkex.com.hk/News/News-Release/2025/2509262news?sc_lang=en)
----
-
-News Releases --- 9/26/2025
-
-Forfeiture of Unclaimed First Interim Dividend for 2019
 
