@@ -1,4 +1,12 @@
 
+[Appointment of HKEX Risk Management Committee (Statutory) Member](https://www.hkex.com.hk/News/News-Release/2026/2607062news?sc_lang=en)
+---
+
+News Releases --- 7/6/2026
+
+Appointment of HKEX Risk Management Committee (Statutory) Member
+
+
 [HKEX Enters Into Data Licensing Agreement with ChinaBond Pricing Center to Support CGB Futures Launch](https://www.hkex.com.hk/News/News-Release/2026/260703news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Advances Commodities Business with New Dubai Subsidiary
 News Releases --- 10/9/2025
 
 HKEX to Introduce Weekly Expiries for Five Stock Option Classes
-
-
-[HKEX to Introduce Pop Mart Stock Options](https://www.hkex.com.hk/News/News-Release/2025/250930news?sc_lang=en)
----
-
-News Releases --- 9/30/2025
-
-HKEX to Introduce Pop Mart Stock Options
 
