@@ -1,4 +1,12 @@
 
+[HKEX, CIPS Sign MOU to Strengthen Hong Kong’s Offshore RMB Settlement Infrastructure](https://www.hkex.com.hk/News/News-Release/2026/2607071news?sc_lang=en)
+---
+
+News Releases --- 7/7/2026
+
+HKEX, CIPS Sign MOU to Strengthen Hong Kong’s Offshore RMB Settlement Infrastructure
+
+
 [Appointment of HKEX Risk Management Committee (Statutory) Member](https://www.hkex.com.hk/News/News-Release/2026/2607062news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Announces Senior Appointments
 News Releases --- 10/13/2025
 
 HKEX Advances Commodities Business with New Dubai Subsidiary
-
-
-[HKEX to Introduce Weekly Expiries for Five Stock Option Classes](https://www.hkex.com.hk/News/News-Release/2025/251009news?sc_lang=en)
----
-
-News Releases --- 10/9/2025
-
-HKEX to Introduce Weekly Expiries for Five Stock Option Classes
 
