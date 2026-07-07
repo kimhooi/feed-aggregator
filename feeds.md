@@ -1,4 +1,12 @@
 
+[Industry Leaders Convene to Advance Hong Kong’s FIC Ecosystem](https://www.hkex.com.hk/News/News-Release/2026/2607073news?sc_lang=en)
+---
+
+News Releases --- 7/7/2026
+
+Industry Leaders Convene to Advance Hong Kong’s FIC Ecosystem
+
+
 [HKEX, CIPS Sign MOU to Strengthen Hong Kong’s Offshore RMB Settlement Infrastructure](https://www.hkex.com.hk/News/News-Release/2026/2607071news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX to Introduce Hang Seng Biotech Index Futures
 News Releases --- 10/13/2025
 
 HKEX Announces Senior Appointments
-
-
-[HKEX Advances Commodities Business with New Dubai Subsidiary](https://www.hkex.com.hk/News/News-Release/2025/251013news?sc_lang=en)
----
-
-News Releases --- 10/13/2025
-
-HKEX Advances Commodities Business with New Dubai Subsidiary
 
