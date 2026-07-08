@@ -7,6 +7,14 @@ News Releases --- 7/7/2026
 Industry Leaders Convene to Advance Hong Kong’s FIC Ecosystem
 
 
+[HKEX Enhances Product Offering with Luxshare Precision Debut](https://www.hkex.com.hk/News/News-Release/2026/260708news?sc_lang=en)
+---
+
+News Releases --- 7/7/2026
+
+HKEX Enhances Product Offering with Luxshare Precision Debut
+
+
 [HKEX, CIPS Sign MOU to Strengthen Hong Kong’s Offshore RMB Settlement Infrastructure](https://www.hkex.com.hk/News/News-Release/2026/2607071news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX 2025 Third Quarter Results
 News Releases --- 10/14/2025
 
 HKEX to Introduce Hang Seng Biotech Index Futures
-
-
-[HKEX Announces Senior Appointments](https://www.hkex.com.hk/News/News-Release/2025/2510132news?sc_lang=en)
----
-
-News Releases --- 10/13/2025
-
-HKEX Announces Senior Appointments
 
