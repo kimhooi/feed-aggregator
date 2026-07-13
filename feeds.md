@@ -1,4 +1,12 @@
 
+[HKEX to Introduce 18 Stock Option Classes with Weekly and Monthly Expiries](https://www.hkex.com.hk/News/News-Release/2026/260713news?sc_lang=en)
+---
+
+News Releases --- 7/13/2026
+
+HKEX to Introduce 18 Stock Option Classes with Weekly and Monthly Expiries
+
+
 [HKEX Enhances Product Offering with Luxshare Precision Debut](https://www.hkex.com.hk/News/News-Release/2026/260708news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Makes Strategic Investment in CMU OmniClear Holdings to Accelerate Developm
 News Releases --- 11/5/2025
 
 HKEX 2025 Third Quarter Results
-
-
-[HKEX to Introduce Hang Seng Biotech Index Futures](https://www.hkex.com.hk/News/News-Release/2025/251014news?sc_lang=en)
----
-
-News Releases --- 10/14/2025
-
-HKEX to Introduce Hang Seng Biotech Index Futures
 
