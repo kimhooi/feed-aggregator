@@ -1,4 +1,12 @@
 
+[HKEX Signs MOUs with SSE and SZSE to Facilitate Information Exchange under Northbound Stock Connect](https://www.hkex.com.hk/News/News-Release/2026/2707173news?sc_lang=en)
+---
+
+News Releases --- 7/17/2026
+
+HKEX Signs MOUs with SSE and SZSE to Facilitate Information Exchange under Northbound Stock Connect
+
+
 [HKEX to Introduce 18 Stock Option Classes with Weekly and Monthly Expiries](https://www.hkex.com.hk/News/News-Release/2026/260713news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ The Community Chest HKEX Gong Run Raises HK$9.7 Million for Charity
 News Releases --- 11/12/2025
 
 HKEX Makes Strategic Investment in CMU OmniClear Holdings to Accelerate Development of Hong Kong’s FIC Ecosystem
-
-
-[HKEX 2025 Third Quarter Results](https://www.hkex.com.hk/News/News-Release/2025/251105news?sc_lang=en)
----
-
-News Releases --- 11/5/2025
-
-HKEX 2025 Third Quarter Results
 
