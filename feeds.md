@@ -1,4 +1,12 @@
 
+[HKEX Adds Bursa Malaysia as Recognised Stock Exchange](https://www.hkex.com.hk/News/News-Release/2026/260723news?sc_lang=en)
+---
+
+News Releases --- 7/23/2026
+
+HKEX Adds Bursa Malaysia as Recognised Stock Exchange
+
+
 [HKEX Signs MOUs with SSE and SZSE to Facilitate Information Exchange under Northbound Stock Connect](https://www.hkex.com.hk/News/News-Release/2026/2707173news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Expands Index Business with Launch of HKEX Tech 100 Index
 News Releases --- 11/23/2025
 
 The Community Chest HKEX Gong Run Raises HK$9.7 Million for Charity
-
-
-[HKEX Makes Strategic Investment in CMU OmniClear Holdings to Accelerate Development of Hong Kong’s FIC Ecosystem](https://www.hkex.com.hk/News/News-Release/2025/251112news?sc_lang=en)
----
-
-News Releases --- 11/12/2025
-
-HKEX Makes Strategic Investment in CMU OmniClear Holdings to Accelerate Development of Hong Kong’s FIC Ecosystem
 
