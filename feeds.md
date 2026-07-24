@@ -303,6 +303,14 @@ News Releases --- 1/2/2026
 
 
 
+[2009](https://www.hkex.com.hk/News/News-Release/2009?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
 [2013](https://www.hkex.com.hk/News/News-Release/2013?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Appoints Group Chief Risk Officer
 News Releases --- 12/9/2025
 
 HKEX Expands Index Business with Launch of HKEX Tech 100 Index
-
-
-[The Community Chest HKEX Gong Run Raises HK$9.7 Million for Charity](https://www.hkex.com.hk/News/News-Release/2025/251123news?sc_lang=en)
----
-
-News Releases --- 11/23/2025
-
-The Community Chest HKEX Gong Run Raises HK$9.7 Million for Charity
 
