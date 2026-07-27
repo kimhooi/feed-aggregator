@@ -1,4 +1,12 @@
 
+[HKEX Enhances Product Offering with Zhongji InnoLight Debut](https://www.hkex.com.hk/News/News-Release/2026/260727news?sc_lang=en)
+---
+
+News Releases --- 7/27/2026
+
+HKEX Enhances Product Offering with Zhongji InnoLight Debut
+
+
 [HKEX Adds Bursa Malaysia as Recognised Stock Exchange](https://www.hkex.com.hk/News/News-Release/2026/260723news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX in 2025: Year in Review
 News Releases --- 12/11/2025
 
 HKEX Appoints Group Chief Risk Officer
-
-
-[HKEX Expands Index Business with Launch of HKEX Tech 100 Index](https://www.hkex.com.hk/News/News-Release/2025/251209news?sc_lang=en)
----
-
-News Releases --- 12/9/2025
-
-HKEX Expands Index Business with Launch of HKEX Tech 100 Index
 
