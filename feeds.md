@@ -1,4 +1,12 @@
 
+[Forfeiture of Unclaimed First Interim Dividend for 2020](https://www.hkex.com.hk/News/News-Release/2026/260731news?sc_lang=en)
+---
+
+News Releases --- 7/31/2026
+
+Forfeiture of Unclaimed First Interim Dividend for 2020
+
+
 [HKEX Enhances Product Offering with Zhongji InnoLight Debut](https://www.hkex.com.hk/News/News-Release/2026/260727news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ News Releases --- 1/2/2026
 News Releases --- 12/22/2025
 
 HKEX in 2025: Year in Review
-
-
-[HKEX Appoints Group Chief Risk Officer](https://www.hkex.com.hk/News/News-Release/2025/2512112news?sc_lang=en)
----
-
-News Releases --- 12/11/2025
-
-HKEX Appoints Group Chief Risk Officer
 
