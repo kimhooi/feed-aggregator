@@ -1,4 +1,12 @@
 
+[HKEX Launches 5-Year China Government Bond Futures](https://www.hkex.com.hk/News/News-Release/2026/260803news?sc_lang=en)
+---
+
+News Releases --- 8/3/2026
+
+HKEX Launches 5-Year China Government Bond Futures
+
+
 [Forfeiture of Unclaimed First Interim Dividend for 2020](https://www.hkex.com.hk/News/News-Release/2026/260731news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ News Releases --- 1/2/2026
 News Releases --- 1/2/2026
 
 
-
-
-[HKEX in 2025: Year in Review](https://www.hkex.com.hk/News/News-Release/2025/251222news?sc_lang=en)
----
-
-News Releases --- 12/22/2025
-
-HKEX in 2025: Year in Review
 
