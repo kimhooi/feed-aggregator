@@ -1,4 +1,12 @@
 
+[HKEX Announces Senior Appointments](https://www.hkex.com.hk/News/News-Release/2026/2608052news?sc_lang=en)
+---
+
+News Releases --- 8/5/2026
+
+HKEX Announces Senior Appointments
+
+
 [HKEX Launches 5-Year China Government Bond Futures](https://www.hkex.com.hk/News/News-Release/2026/260803news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2021](https://www.hkex.com.hk/News/News-Release/2021?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2025](https://www.hkex.com.hk/News/News-Release/2025?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
