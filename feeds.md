@@ -311,6 +311,14 @@ News Releases --- 1/2/2026
 
 
 
+[2005](https://www.hkex.com.hk/News/News-Release/2005?sc_lang=en)
+---
+
+News Releases --- 1/2/2026
+
+
+
+
 [2003](https://www.hkex.com.hk/News/News-Release/2003?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2022](https://www.hkex.com.hk/News/News-Release/2022?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2021](https://www.hkex.com.hk/News/News-Release/2021?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
