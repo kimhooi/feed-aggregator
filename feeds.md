@@ -1,4 +1,12 @@
 
+[Renewal of Contract of HKEX Chief Executive Officer](https://www.hkex.com.hk/News/News-Release/2026/260817news?sc_lang=en)
+---
+
+News Releases --- 8/17/2026
+
+Renewal of Contract of HKEX Chief Executive Officer
+
+
 [HKEX Announces Senior Appointments](https://www.hkex.com.hk/News/News-Release/2026/2608052news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2023](https://www.hkex.com.hk/News/News-Release/2023?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2022](https://www.hkex.com.hk/News/News-Release/2022?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
