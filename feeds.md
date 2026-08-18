@@ -1,4 +1,12 @@
 
+[HKEX Welcomes Mainland Insurance Funds to Invest in Hong Kong ETFs](https://www.hkex.com.hk/News/News-Release/2026/260818news?sc_lang=en)
+---
+
+News Releases --- 8/18/2026
+
+HKEX Welcomes Mainland Insurance Funds to Invest in Hong Kong ETFs
+
+
 [Renewal of Contract of HKEX Chief Executive Officer](https://www.hkex.com.hk/News/News-Release/2026/260817news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2024](https://www.hkex.com.hk/News/News-Release/2024?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2023](https://www.hkex.com.hk/News/News-Release/2023?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
