@@ -1,4 +1,12 @@
 
+[HKEX 2026 Interim Results](https://www.hkex.com.hk/News/News-Release/2026/260819news?sc_lang=en)
+---
+
+News Releases --- 8/19/2026
+
+HKEX 2026 Interim Results
+
+
 [HKEX Welcomes Mainland Insurance Funds to Invest in Hong Kong ETFs](https://www.hkex.com.hk/News/News-Release/2026/260818news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2017](https://www.hkex.com.hk/News/News-Release/2017?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2024](https://www.hkex.com.hk/News/News-Release/2024?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
