@@ -1,4 +1,12 @@
 
+[HKEX Appoints Head of External Communications](https://www.hkex.com.hk/News/News-Release/2026/260824news?sc_lang=en)
+---
+
+News Releases --- 8/24/2026
+
+HKEX Appoints Head of External Communications
+
+
 [Condensed Consolidated Financial Statements for the Six Months Ended 30 June 2026 (Unaudited)](https://www.hkex.com.hk/News/News-Release/2026/2608192news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2013](https://www.hkex.com.hk/News/News-Release/2013?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2020](https://www.hkex.com.hk/News/News-Release/2020?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
