@@ -1,4 +1,12 @@
 
+[HKEX Enhances Product Offering with SHEIN Debut](https://www.hkex.com.hk/News/News-Release/2026/260828news?sc_lang=en)
+---
+
+News Releases --- 8/28/2026
+
+HKEX Enhances Product Offering with SHEIN Debut
+
+
 [HKEX Appoints Head of External Communications](https://www.hkex.com.hk/News/News-Release/2026/260824news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2009](https://www.hkex.com.hk/News/News-Release/2009?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2013](https://www.hkex.com.hk/News/News-Release/2013?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
