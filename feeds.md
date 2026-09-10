@@ -1,4 +1,12 @@
 
+[HKEX, HKMA, DFSA and Nasdaq Dubai Form Strategic Working Group to Strengthen Hong Kong-Dubai Financial Market Connectivity](https://www.hkex.com.hk/News/News-Release/2026/260910news?sc_lang=en)
+---
+
+News Releases --- 9/10/2026
+
+HKEX, HKMA, DFSA and Nasdaq Dubai Form Strategic Working Group to Strengthen Hong Kong-Dubai Financial Market Connectivity
+
+
 [HKEX Enhances Product Offering with SHEIN Debut](https://www.hkex.com.hk/News/News-Release/2026/260828news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2012](https://www.hkex.com.hk/News/News-Release/2012?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2009](https://www.hkex.com.hk/News/News-Release/2009?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
