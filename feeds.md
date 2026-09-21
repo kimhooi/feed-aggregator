@@ -1,4 +1,12 @@
 
+[Forfeiture of Unclaimed First Interim Dividend for 2020](https://www.hkex.com.hk/News/News-Release/2026/2609152news?sc_lang=en)
+---
+
+News Releases --- 9/15/2026
+
+Forfeiture of Unclaimed First Interim Dividend for 2020
+
+
 [HKEX, HKMA, DFSA and Nasdaq Dubai Form Strategic Working Group to Strengthen Hong Kong-Dubai Financial Market Connectivity](https://www.hkex.com.hk/News/News-Release/2026/260910news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2007](https://www.hkex.com.hk/News/News-Release/2007?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2012](https://www.hkex.com.hk/News/News-Release/2012?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
