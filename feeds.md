@@ -1,4 +1,20 @@
 
+[HKEX Launches “A Place to Connect” Exhibition Celebrating 40 Years of Hong Kong’s Modern Stock Exchange](https://www.hkex.com.hk/News/News-Release/2026/2609282news?sc_lang=en)
+---
+
+News Releases --- 9/28/2026
+
+HKEX Launches “A Place to Connect” Exhibition Celebrating 40 Years of Hong Kong’s Modern Stock Exchange
+
+
+[HKEX Welcomes Four New ETFs Tracking HKEX Cross-Market Indices](https://www.hkex.com.hk/News/News-Release/2026/260928news?sc_lang=en)
+---
+
+News Releases --- 9/28/2026
+
+HKEX Welcomes Four New ETFs Tracking HKEX Cross-Market Indices
+
+
 [Forfeiture of Unclaimed First Interim Dividend for 2020](https://www.hkex.com.hk/News/News-Release/2026/2609152news?sc_lang=en)
 ---
 
@@ -376,22 +392,6 @@ News Releases --- 1/2/2026
 
 
 [2005](https://www.hkex.com.hk/News/News-Release/2005?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2003](https://www.hkex.com.hk/News/News-Release/2003?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2007](https://www.hkex.com.hk/News/News-Release/2007?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
