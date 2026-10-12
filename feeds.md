@@ -1,4 +1,12 @@
 
+[HKEX to Introduce 12 Stock Option Classes with Weekly and Monthly Expiries](https://www.hkex.com.hk/News/News-Release/2026/261012news?sc_lang=en)
+---
+
+News Releases --- 10/12/2026
+
+HKEX to Introduce 12 Stock Option Classes with Weekly and Monthly Expiries
+
+
 [HKEX Launches “A Place to Connect” Exhibition Celebrating 40 Years of Hong Kong’s Modern Stock Exchange](https://www.hkex.com.hk/News/News-Release/2026/2609282news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ News Releases --- 1/2/2026
 
 
 [The Stock Exchange of Hong Kong Limited](https://www.hkex.com.hk/News/News-Release/1999-SEHK?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[2005](https://www.hkex.com.hk/News/News-Release/2005?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
