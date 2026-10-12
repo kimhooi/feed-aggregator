@@ -1,4 +1,12 @@
 
+[HKEX Launches S&P 500 & HKEX Tech 100 Index in Partnership with S&P Dow Jones Indices](https://www.hkex.com.hk/News/News-Release/2026/2610122news?sc_lang=en)
+---
+
+News Releases --- 10/12/2026
+
+HKEX Launches S&P 500 & HKEX Tech 100 Index in Partnership with S&P Dow Jones Indices
+
+
 [HKEX to Introduce 12 Stock Option Classes with Weekly and Monthly Expiries](https://www.hkex.com.hk/News/News-Release/2026/261012news?sc_lang=en)
 ---
 
@@ -384,14 +392,6 @@ Appointment of HKEX Risk Management Committee (Statutory) Member
 
 
 [2026](https://www.hkex.com.hk/News/News-Release/2026?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
-
-
-[The Stock Exchange of Hong Kong Limited](https://www.hkex.com.hk/News/News-Release/1999-SEHK?sc_lang=en)
 ---
 
 News Releases --- 1/2/2026
