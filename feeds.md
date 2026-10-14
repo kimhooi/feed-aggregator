@@ -1,4 +1,12 @@
 
+[HKEX’s Core Climate Completes First Cross-boundary Pilots in Green Electricity Certificates and Carbon Allowances](https://www.hkex.com.hk/News/News-Release/2026/261014news?sc_lang=en)
+---
+
+News Releases --- 10/14/2026
+
+HKEX’s Core Climate Completes First Cross-boundary Pilots in Green Electricity Certificates and Carbon Allowances
+
+
 [HKEX Launches S&P 500 & HKEX Tech 100 Index in Partnership with S&P Dow Jones Indices](https://www.hkex.com.hk/News/News-Release/2026/2610122news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX to Introduce New Stock Option Classes
 News Releases --- 1/2/2026
 
 Appointment of HKEX Risk Management Committee (Statutory) Member
-
-
-[2026](https://www.hkex.com.hk/News/News-Release/2026?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-
 
