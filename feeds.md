@@ -1,4 +1,12 @@
 
+[HKEX Launches Green Equity Designation Programme to Strengthen Capital Support for Green Economy](https://www.hkex.com.hk/News/News-Release/2026/261020news?sc_lang=en)
+---
+
+News Releases --- 10/20/2026
+
+HKEX Launches Green Equity Designation Programme to Strengthen Capital Support for Green Economy
+
+
 [HKEX’s Core Climate Completes First Cross-boundary Pilots in Green Electricity Certificates and Carbon Allowances](https://www.hkex.com.hk/News/News-Release/2026/261014news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Signs MOU with Brazil’s B3 to Advance Sustainable Finance, Carbon Markets
 News Releases --- 1/9/2026
 
 HKEX to Introduce New Stock Option Classes
-
-
-[Appointment of HKEX Risk Management Committee (Statutory) Member](https://www.hkex.com.hk/News/News-Release/2026/260102news?sc_lang=en)
----
-
-News Releases --- 1/2/2026
-
-Appointment of HKEX Risk Management Committee (Statutory) Member
 
