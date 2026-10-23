@@ -1,4 +1,12 @@
 
+[HKEX Launches Artificial Intelligence and Semiconductor Indices](https://www.hkex.com.hk/News/News-Release/2026/261023news?sc_lang=en)
+---
+
+News Releases --- 10/23/2026
+
+HKEX Launches Artificial Intelligence and Semiconductor Indices
+
+
 [HKEX Launches Green Equity Designation Programme to Strengthen Capital Support for Green Economy](https://www.hkex.com.hk/News/News-Release/2026/261020news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX Appoints Chief Regional Representative for the Middle East
 News Releases --- 1/27/2026
 
 HKEX Signs MOU with Brazil’s B3 to Advance Sustainable Finance, Carbon Markets
-
-
-[HKEX to Introduce New Stock Option Classes](https://www.hkex.com.hk/News/News-Release/2026/260109news?sc_lang=en)
----
-
-News Releases --- 1/9/2026
-
-HKEX to Introduce New Stock Option Classes
 
