@@ -1,4 +1,12 @@
 
+[HKEX Expands Integrated Fund Platform with Launch of Platform and Nominee Services](https://www.hkex.com.hk/News/News-Release/2026/261028news?sc_lang=en)
+---
+
+News Releases --- 10/28/2026
+
+HKEX Expands Integrated Fund Platform with Launch of Platform and Nominee Services
+
+
 [HKEX Launches Artificial Intelligence and Semiconductor Indices](https://www.hkex.com.hk/News/News-Release/2026/261023news?sc_lang=en)
 ---
 
@@ -389,12 +397,4 @@ HKEX 2025 Full Year Results
 News Releases --- 2/12/2026
 
 HKEX Appoints Chief Regional Representative for the Middle East
-
-
-[HKEX Signs MOU with Brazil’s B3 to Advance Sustainable Finance, Carbon Markets](https://www.hkex.com.hk/News/News-Release/2026/2601272news?sc_lang=en)
----
-
-News Releases --- 1/27/2026
-
-HKEX Signs MOU with Brazil’s B3 to Advance Sustainable Finance, Carbon Markets
 
